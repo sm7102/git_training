@@ -3,3 +3,4 @@ Hi! Adding change to new branch.
 Adding one more line to make it complex , branch merge test.
 Add changes for rebase add_patrick.
 Adding from Web site ....
+Ha ha!! creating conflict.

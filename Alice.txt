@@ -1,3 +1,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Hi! Adding change to new branch.
 Adding one more line to make it complex , branch merge test.
+Add changes for rebase add_patrick.
